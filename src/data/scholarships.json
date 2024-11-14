@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name": "STEM Women Scholarship",
+        "description": "A scholarship for women in STEM fields.",
+        "location": "USA",
+        "education": "Undergraduate"
+    },
+    {
+        "id": 2,
+        "name": "Women in Business Scholarship",
+        "description": "Scholarship for aspiring women business leaders.",
+        "location": "Canada",
+        "education": "Graduate"
+    },
+    {
+        "id": 3,
+        "name": "Women in STEM Scholarship",
+        "description": "Scholarship for aspiring women business leaders.",
+        "location": "Canada",
+        "education": "Graduate"
+    },
+    {
+        "id": 4,
+        "name": "Healthcare Women Leaders Scholarship",
+        "description": "Scholarship for women pursuing careers in healthcare.",
+        "location": "UK",
+        "education": "Undergraduate"
+    },
+    {
+        "id": 5,
+        "name": "Women in Technology Scholarship",
+        "description": "A scholarship for women entering tech fields like software engineering and data science.",
+        "location": "USA",
+        "education": "Graduate"
+    },
+    {
+        "id": 6,
+        "name": "Women Environmental Leaders Award",
+        "description": "Award for women dedicated to environmental science and sustainability.",
+        "location": "Australia",
+        "education": "Undergraduate"
+    },
+    {
+        "id": 7,
+        "name": "Future Women Engineers Grant",
+        "description": "Grant for women pursuing engineering degrees.",
+        "location": "Germany",
+        "education": "Undergraduate"
+    }
+]

@@ -1,0 +1,18 @@
+/* src/components/ScholarshipCard.css */
+.scholarship-card {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    width: 80%;
+    max-width: 400px;
+    text-align: left;
+}
+
+.scholarship-card h2 {
+    color: #007acc;
+}
+
+.scholarship-card p {
+    margin: 5px 0;
+}

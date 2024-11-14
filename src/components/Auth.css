@@ -1,0 +1,49 @@
+/* src/components/Auth.css */
+.auth-modal {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 300px;
+    padding: 20px;
+    background-color: #f9f5ee;
+    border: 1px solid #d1b9a8;
+    border-radius: 8px;
+    box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    z-index: 1000;
+}
+
+.auth-modal h2 {
+    color: #8c6d62;
+    margin-bottom: 15px;
+}
+
+.auth-modal input {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #b89a85;
+    border-radius: 4px;
+    background-color: #f4ebe1;
+    color: #3b2f2f;
+}
+
+.auth-modal input:focus {
+    outline: none;
+    border-color: #8c6d62;
+}
+
+.auth-modal button {
+    background-color: #8c6d62;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+.auth-modal button:hover {
+    background-color: #b89a85;
+}
